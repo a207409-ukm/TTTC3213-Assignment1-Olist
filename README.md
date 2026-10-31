@@ -118,5 +118,3 @@ The original data in `data/raw/` is left unchanged. Both data folders are ignore
 2. Upload `Assignment1.ipynb`, `README.md`, `requirements.txt`, and `.gitignore` from this project. The `data` folders and `.gitkeep` placeholders are optional; do not upload downloaded or cleaned customer-level CSV files.
 3. Commit the uploaded files. Open `Assignment1.ipynb` on GitHub to confirm the notebook and charts display correctly.
 4. Submit the **repository URL** (for example, `https://github.com/YOUR-USERNAME/Assignment1-Data-Profiling`), not the ZIP file.
-
-**Before submission:** Rerun all notebook cells in Colab or Jupyter and confirm there are no errors. The saved outputs in this notebook show a previous run, not an independently verified fresh execution.
